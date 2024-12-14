@@ -1,0 +1,6 @@
+﻿  DOP_2.cpp
+C:\Users\Misha\Desktop\FIT\ОАиП\LAB_07\pr_1\DOP_2\DOP_2.cpp(9,6): warning C4101: a: неиспользованная локальная переменная
+C:\Users\Misha\Desktop\FIT\ОАиП\LAB_07\pr_1\DOP_2\DOP_2.cpp(9,9): warning C4101: b: неиспользованная локальная переменная
+C:\Users\Misha\Desktop\FIT\ОАиП\LAB_07\pr_1\DOP_2\DOP_2.cpp(9,12): warning C4101: c: неиспользованная локальная переменная
+C:\Users\Misha\Desktop\FIT\ОАиП\LAB_07\pr_1\DOP_2\DOP_2.cpp(9,15): warning C4101: d: неиспользованная локальная переменная
+  DOP_2.vcxproj -> C:\Users\Misha\Desktop\FIT\ОАиП\LAB_07\pr_1\x64\Debug\DOP_2.exe

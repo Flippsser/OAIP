@@ -1,0 +1,5 @@
+﻿  PR_2_2.cpp
+C:\Users\Misha\source\repos\Lab_8\PR_2_2\PR_2_2.cpp(4,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Misha\source\repos\Lab_8\PR_2_2\PR_2_2.cpp(9,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Misha\source\repos\Lab_8\PR_2_2\PR_2_2.cpp(10,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  PR_2_2.vcxproj -> C:\Users\Misha\source\repos\Lab_8\x64\Debug\PR_2_2.exe

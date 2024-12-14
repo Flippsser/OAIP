@@ -1,0 +1,5 @@
+﻿  Lab_06.cpp
+C:\Users\Misha\Desktop\FIT\ОАиП\Lab_06\Lab_06\Lab_06\Lab_06.cpp(2,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Misha\Desktop\FIT\ОАиП\Lab_06\Lab_06\Lab_06\Lab_06.cpp(6,11): warning C4305: =: усечение из "double" в "float"
+C:\Users\Misha\Desktop\FIT\ОАиП\Lab_06\Lab_06\Lab_06\Lab_06.cpp(11,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab_06.vcxproj -> C:\Users\Misha\Desktop\FIT\ОАиП\Lab_06\Lab_06\x64\Debug\PR_1.exe

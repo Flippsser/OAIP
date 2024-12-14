@@ -1,0 +1,4 @@
+﻿  ex_2.cpp
+C:\Users\Misha\Desktop\FIT\OAIP\labs\LAB_13\ex_2\ex_2.cpp(8,12): warning C4101: p: неиспользованная локальная переменная
+C:\Users\Misha\Desktop\FIT\OAIP\labs\LAB_13\ex_2\ex_2.cpp(8,10): warning C4101: j: неиспользованная локальная переменная
+  ex_2.vcxproj -> C:\Users\Misha\Desktop\FIT\OAIP\labs\LAB_13\x64\Debug\ex_2.exe

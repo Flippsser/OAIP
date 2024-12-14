@@ -1,0 +1,7 @@
+﻿  PR_2.cpp
+C:\Users\Misha\Desktop\FIT\OAIP\labs\LAB_13\PR_2\PR_2.cpp(5,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Misha\Desktop\FIT\OAIP\labs\LAB_13\PR_2\PR_2.cpp(11,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Misha\Desktop\FIT\OAIP\labs\LAB_13\PR_2\PR_2.cpp(12,17): warning C4129: "/": нераспознанная escape-последовательность символов
+C:\Users\Misha\Desktop\FIT\OAIP\labs\LAB_13\PR_2\PR_2.cpp(15,17): warning C4129: "/": нераспознанная escape-последовательность символов
+C:\Users\Misha\Desktop\FIT\OAIP\labs\LAB_13\PR_2\PR_2.cpp(18,10): warning C4129: "/": нераспознанная escape-последовательность символов
+  PR_2.vcxproj -> C:\Users\Misha\Desktop\FIT\OAIP\labs\LAB_13\x64\Debug\PR_2.exe

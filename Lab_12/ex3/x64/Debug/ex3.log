@@ -1,0 +1,4 @@
+﻿  ex3.cpp
+C:\Users\Misha\Desktop\FIT\ОАиП\Lab12\ex3\ex3.cpp(3,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Misha\Desktop\FIT\ОАиП\Lab12\ex3\ex3.cpp(8,23): warning C4305: инициализация: усечение из "double" в "float"
+  ex3.vcxproj -> C:\Users\Misha\source\repos\LAB_12\x64\Debug\ex3.exe

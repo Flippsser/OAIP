@@ -1,0 +1,3 @@
+﻿  LAB_05.cpp
+C:\Users\Misha\Desktop\FIT\ОАиП\LAB_05\PR_1\LAB_05\LAB_05.cpp(3,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LAB_05.vcxproj -> C:\Users\Misha\Desktop\FIT\ОАиП\LAB_05\PR_1\x64\Debug\LAB_05.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u0410\u0438\u041F\\Lab12\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Lab12_Var3.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7B8D90-4988-4780-B222-4CF6551A95D4}|Lab12_Var3.2.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u0410\u0438\u041F\\Lab12\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Lab12_Var3.2\\Lab12_Var3.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C7B8D90-4988-4780-B222-4CF6551A95D4}|Lab12_Var3.2.vcxproj|solutionrelative:Lab12_Var3.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab12_Var3.2.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u0410\u0438\u041F\\Lab12\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Lab12_Var3.2\\Lab12_Var3.2.cpp",
+              "RelativeDocumentMoniker": "Lab12_Var3.2.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u0410\u0438\u041F\\Lab12\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Lab12_Var3.2\\Lab12_Var3.2.cpp",
+              "RelativeToolTip": "Lab12_Var3.2.cpp",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T07:37:46.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

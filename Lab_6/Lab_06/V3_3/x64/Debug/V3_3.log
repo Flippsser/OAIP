@@ -1,0 +1,5 @@
+﻿  V3_3.cpp
+C:\Users\Misha\Desktop\FIT\ОАиП\Lab_06\Lab_06\V3_3\V3_3.cpp(7,16): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Misha\Desktop\FIT\ОАиП\Lab_06\Lab_06\V3_3\V3_3.cpp(13,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Misha\Desktop\FIT\ОАиП\Lab_06\Lab_06\V3_3\V3_3.cpp(16,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  V3_3.vcxproj -> C:\Users\Misha\Desktop\FIT\ОАиП\Lab_06\Lab_06\x64\Debug\V3_3.exe

@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD0A33D-B9B8-4BFC-91A9-9126E65D2DFC}|1\\1.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\1\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD0A33D-B9B8-4BFC-91A9-9126E65D2DFC}|1\\1.vcxproj|solutionrelative:1\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B420DBB-58BB-48B0-A975-2434139D36D9}|V1\\V1.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\V1\\V1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B420DBB-58BB-48B0-A975-2434139D36D9}|V1\\V1.vcxproj|solutionrelative:V1\\V1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3703C-BBBD-43CA-A282-92FDAF824B8B}|v11\\v11.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\v11\\v11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DF3703C-BBBD-43CA-A282-92FDAF824B8B}|v11\\v11.vcxproj|solutionrelative:v11\\v11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEF1F4B-859D-4947-A150-DAC83EBBC701}|Brazouski V3\\Brazouski V3.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\Brazouski V3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DEF1F4B-859D-4947-A150-DAC83EBBC701}|Brazouski V3\\Brazouski V3.vcxproj|solutionrelative:Brazouski V3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104A44D3-0763-4DA7-8C0C-FF0FE3459E25}|V7\\V7.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\V7\\V7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{104A44D3-0763-4DA7-8C0C-FF0FE3459E25}|V7\\V7.vcxproj|solutionrelative:V7\\V7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FA86E7-D690-4E0C-A865-A4B44B4D7894}|2\\2.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\2\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89FA86E7-D690-4E0C-A865-A4B44B4D7894}|2\\2.vcxproj|solutionrelative:2\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A709CC4-A4F0-4674-BE4A-C05B555D9D37}|V6\\V6.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\V6\\V6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A709CC4-A4F0-4674-BE4A-C05B555D9D37}|V6\\V6.vcxproj|solutionrelative:V6\\V6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "V6.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\V6\\V6.cpp",
+              "RelativeDocumentMoniker": "V6\\V6.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\V6\\V6.cpp",
+              "RelativeToolTip": "V6\\V6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T23:43:42.102Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "2.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\2\\2.cpp",
+              "RelativeDocumentMoniker": "2\\2.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\2\\2.cpp",
+              "RelativeToolTip": "2\\2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-21T09:31:57.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\1\\1.cpp",
+              "RelativeDocumentMoniker": "1\\1.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\1\\1.cpp",
+              "RelativeToolTip": "1\\1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-21T09:30:57.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "V7.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\V7\\V7.cpp",
+              "RelativeDocumentMoniker": "V7\\V7.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\V7\\V7.cpp",
+              "RelativeToolTip": "V7\\V7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-21T09:07:04.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\Brazouski V3\\main.cpp",
+              "RelativeDocumentMoniker": "Brazouski V3\\main.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\Brazouski V3\\main.cpp",
+              "RelativeToolTip": "Brazouski V3\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T21:50:41.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "v11.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\v11\\v11.cpp",
+              "RelativeDocumentMoniker": "v11\\v11.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\v11\\v11.cpp",
+              "RelativeToolTip": "v11\\v11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T23:46:27.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "V1.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\V1\\V1.cpp",
+              "RelativeDocumentMoniker": "V1\\V1.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\Lab_3\\Brazouski V3\\V1\\V1.cpp",
+              "RelativeToolTip": "V1\\V1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T23:39:01.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

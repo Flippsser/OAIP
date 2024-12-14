@@ -1,0 +1,4 @@
+﻿  PR_3.cpp
+C:\Users\Misha\Desktop\FIT\OAIP\labs\LAB_13\PR_3\PR_3.cpp(3,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Misha\Desktop\FIT\OAIP\labs\LAB_13\PR_3\PR_3.cpp(11,15): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  PR_3.vcxproj -> C:\Users\Misha\Desktop\FIT\OAIP\labs\LAB_13\x64\Debug\PR_3.exe

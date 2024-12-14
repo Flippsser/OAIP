@@ -1,0 +1,7 @@
+﻿  LAB-07.cpp
+C:\Users\Misha\Desktop\FIT\ОАиП\LAB_07\pr_1\LAB-07\LAB-07.cpp(2,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  LAB-07.vcxproj -> C:\Users\Misha\Desktop\FIT\ОАиП\LAB_07\pr_1\x64\Release\PR_1.exe

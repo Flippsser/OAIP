@@ -1,0 +1,3 @@
+﻿  PR_2.cpp
+C:\Users\Misha\Desktop\FIT\ОАиП\LAB_05\PR_1\PR_2\PR_2.cpp(3,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  PR_2.vcxproj -> C:\Users\Misha\Desktop\FIT\ОАиП\LAB_05\PR_1\x64\Debug\PR_2.exe

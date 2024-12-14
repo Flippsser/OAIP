@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86E3FF31-ED3F-466B-9160-5542D82F8254}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86E3FF31-ED3F-466B-9160-5542D82F8254}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA953829-6F5F-4E28-8244-34940521BBE1}|Dop2_3\\Dop2_3.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\Dop2_3\\Dop2_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA953829-6F5F-4E28-8244-34940521BBE1}|Dop2_3\\Dop2_3.vcxproj|solutionrelative:Dop2_3\\Dop2_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BBB042-E3DA-4FEE-A6AC-EE791F2AB0D7}|PR_1_2\\PR_1_2.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_1_2\\PR_1_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0BBB042-E3DA-4FEE-A6AC-EE791F2AB0D7}|PR_1_2\\PR_1_2.vcxproj|solutionrelative:PR_1_2\\PR_1_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4390F-EE80-49A2-AC66-BF58A90BE2F9}|PR_2\\PR_2.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_2\\PR_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02E4390F-EE80-49A2-AC66-BF58A90BE2F9}|PR_2\\PR_2.vcxproj|solutionrelative:PR_2\\PR_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B53A081-11DE-4CB2-BA03-90365D4B3371}|PR_1_1\\PR_1_1.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_1_1\\PR_1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B53A081-11DE-4CB2-BA03-90365D4B3371}|PR_1_1\\PR_1_1.vcxproj|solutionrelative:PR_1_1\\PR_1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D49F2C6-0F8A-4E68-83E7-99B23DFF480F}|DOP_2_4\\DOP_2_4.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\DOP_2_4\\DOP_2_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D49F2C6-0F8A-4E68-83E7-99B23DFF480F}|DOP_2_4\\DOP_2_4.vcxproj|solutionrelative:DOP_2_4\\DOP_2_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87C828D-B97F-42B4-A92A-2C2740DB7D1C}|DOP_1_1\\DOP_1_1.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\DOP_1_1\\DOP_1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D87C828D-B97F-42B4-A92A-2C2740DB7D1C}|DOP_1_1\\DOP_1_1.vcxproj|solutionrelative:DOP_1_1\\DOP_1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6F3122-6E39-44EA-955B-A04450F54A9D}|ex_2\\ex_2.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\ex_2\\ex_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E6F3122-6E39-44EA-955B-A04450F54A9D}|ex_2\\ex_2.vcxproj|solutionrelative:ex_2\\ex_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FFF7BF-F3FD-458C-9D29-1294140329E9}|ex_1\\ex_1.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\ex_1\\ex_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96FFF7BF-F3FD-458C-9D29-1294140329E9}|ex_1\\ex_1.vcxproj|solutionrelative:ex_1\\ex_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C587F1FD-69D3-4098-8942-029348D94310}|PR_5_1\\PR_5_1.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_5_1\\PR_5_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C587F1FD-69D3-4098-8942-029348D94310}|PR_5_1\\PR_5_1.vcxproj|solutionrelative:PR_5_1\\PR_5_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B8201C-A007-436A-8BC8-F77B390C1DDB}|PR_5_2\\PR_5_2.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_5_2\\PR_5_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1B8201C-A007-436A-8BC8-F77B390C1DDB}|PR_5_2\\PR_5_2.vcxproj|solutionrelative:PR_5_2\\PR_5_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA41890C-BC8F-4204-B364-059667DE204E}|PR_4\\PR_4.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_4\\PR_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA41890C-BC8F-4204-B364-059667DE204E}|PR_4\\PR_4.vcxproj|solutionrelative:PR_4\\PR_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B752B8D-A711-4DFE-9818-E06B06547D5B}|PR_3\\PR_3.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_3\\PR_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B752B8D-A711-4DFE-9818-E06B06547D5B}|PR_3\\PR_3.vcxproj|solutionrelative:PR_3\\PR_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T12:24:55.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ex_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\ex_1\\ex_1.cpp",
+              "RelativeDocumentMoniker": "ex_1\\ex_1.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\ex_1\\ex_1.cpp",
+              "RelativeToolTip": "ex_1\\ex_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T16:50:59.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PR_5_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_5_2\\PR_5_2.cpp",
+              "RelativeDocumentMoniker": "PR_5_2\\PR_5_2.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_5_2\\PR_5_2.cpp",
+              "RelativeToolTip": "PR_5_2\\PR_5_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T15:32:36.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PR_5_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_5_1\\PR_5_1.cpp",
+              "RelativeDocumentMoniker": "PR_5_1\\PR_5_1.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_5_1\\PR_5_1.cpp",
+              "RelativeToolTip": "PR_5_1\\PR_5_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T09:27:37.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PR_4.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_4\\PR_4.cpp",
+              "RelativeDocumentMoniker": "PR_4\\PR_4.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_4\\PR_4.cpp",
+              "RelativeToolTip": "PR_4\\PR_4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T09:21:48.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PR_3.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_3\\PR_3.cpp",
+              "RelativeDocumentMoniker": "PR_3\\PR_3.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_3\\PR_3.cpp",
+              "RelativeToolTip": "PR_3\\PR_3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T09:13:47.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PR_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_2\\PR_2.cpp",
+              "RelativeDocumentMoniker": "PR_2\\PR_2.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_2\\PR_2.cpp",
+              "RelativeToolTip": "PR_2\\PR_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T09:05:19.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PR_1_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_1_2\\PR_1_2.cpp",
+              "RelativeDocumentMoniker": "PR_1_2\\PR_1_2.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_1_2\\PR_1_2.cpp",
+              "RelativeToolTip": "PR_1_2\\PR_1_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T08:57:45.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DOP_2_4.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\DOP_2_4\\DOP_2_4.cpp",
+              "RelativeDocumentMoniker": "DOP_2_4\\DOP_2_4.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\DOP_2_4\\DOP_2_4.cpp",
+              "RelativeToolTip": "DOP_2_4\\DOP_2_4.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T23:02:23.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PR_1_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_1_1\\PR_1_1.cpp",
+              "RelativeDocumentMoniker": "PR_1_1\\PR_1_1.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\PR_1_1\\PR_1_1.cpp",
+              "RelativeToolTip": "PR_1_1\\PR_1_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T08:37:38.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dop2_3.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\Dop2_3\\Dop2_3.cpp",
+              "RelativeDocumentMoniker": "Dop2_3\\Dop2_3.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\Dop2_3\\Dop2_3.cpp",
+              "RelativeToolTip": "Dop2_3\\Dop2_3.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T22:46:41.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ex_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\ex_2\\ex_2.cpp",
+              "RelativeDocumentMoniker": "ex_2\\ex_2.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\ex_2\\ex_2.cpp",
+              "RelativeToolTip": "ex_2\\ex_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T17:27:07.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DOP_1_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\DOP_1_1\\DOP_1_1.cpp",
+              "RelativeDocumentMoniker": "DOP_1_1\\DOP_1_1.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\LAB_13\\DOP_1_1\\DOP_1_1.cpp",
+              "RelativeToolTip": "DOP_1_1\\DOP_1_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T20:15:33.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
