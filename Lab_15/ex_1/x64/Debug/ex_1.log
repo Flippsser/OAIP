@@ -1,0 +1,7 @@
+﻿  ex_1.cpp
+C:\Users\Misha\Desktop\FIT\OAIP\labs\Lab_15\ex_1\ex_1.cpp(4,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Misha\Desktop\FIT\OAIP\labs\Lab_15\ex_1\ex_1.cpp(20,27): warning C4474: "printf" : для строки формата передано слишком много аргументов
+      C:\Users\Misha\Desktop\FIT\OAIP\labs\Lab_15\ex_1\ex_1.cpp(20,27):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  
+  ex_1.vcxproj -> C:\Users\Misha\Desktop\FIT\OAIP\labs\Lab_15\x64\Debug\ex_1.exe

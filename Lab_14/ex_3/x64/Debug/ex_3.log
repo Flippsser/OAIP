@@ -1,0 +1,3 @@
+﻿  ex_3.cpp
+C:\Users\Misha\Desktop\FIT\OAIP\labs\Lab_14\ex_3\ex_3.cpp(2,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ex_3.vcxproj -> C:\Users\Misha\Desktop\FIT\OAIP\labs\Lab_14\x64\Debug\ex_3.exe

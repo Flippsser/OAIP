@@ -1,0 +1,4 @@
+﻿  ex_3.cpp
+C:\Users\Misha\Desktop\FIT\OAIP\labs\Lab_15\ex_3\ex_3.cpp(5,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Misha\Desktop\FIT\OAIP\labs\Lab_15\ex_3\ex_3.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ex_3.vcxproj -> C:\Users\Misha\Desktop\FIT\OAIP\labs\Lab_15\x64\Debug\ex_3.exe
