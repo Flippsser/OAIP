@@ -1,0 +1,8 @@
+﻿  V_10_2.cpp
+C:\Users\Misha\Desktop\FIT\OAIP\labs\Lab_17\V_10_2\V_10_2.cpp(8,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Misha\Desktop\FIT\OAIP\labs\Lab_17\V_10_2\V_10_2.cpp(18,31): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Misha\Desktop\FIT\OAIP\labs\Lab_17\V_10_2\V_10_2.cpp(32,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Misha\Desktop\FIT\OAIP\labs\Lab_17\V_10_2\V_10_2.cpp(33,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Misha\Desktop\FIT\OAIP\labs\Lab_17\V_10_2\V_10_2.cpp(34,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Misha\Desktop\FIT\OAIP\labs\Lab_17\V_10_2\V_10_2.cpp(35,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  V_10_2.vcxproj -> C:\Users\Misha\Desktop\FIT\OAIP\labs\Lab_17\pr_1\x64\Debug\V_10_2.exe
