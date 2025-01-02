@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29B11BF4-162B-4C2F-8E28-7EEC99350F59}|dop_3\\dop_3.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\dop_3\\dop_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29B11BF4-162B-4C2F-8E28-7EEC99350F59}|dop_3\\dop_3.vcxproj|solutionrelative:dop_3\\dop_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE49DB9A-D081-4DED-B56E-0F835984A20B}|Dop_2\\Dop_2.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\Dop_2\\Dop_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE49DB9A-D081-4DED-B56E-0F835984A20B}|Dop_2\\Dop_2.vcxproj|solutionrelative:Dop_2\\Dop_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655E2CC4-649E-44E5-A31A-2123A2B16822}|Dop_1_1\\Dop_1_1.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\Dop_1_1\\Dop_1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{655E2CC4-649E-44E5-A31A-2123A2B16822}|Dop_1_1\\Dop_1_1.vcxproj|solutionrelative:Dop_1_1\\Dop_1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88DFB97-E6CB-4033-B98D-D619F72D9F72}|V_3_2\\V_3_2.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\V_3_2\\V_3_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A88DFB97-E6CB-4033-B98D-D619F72D9F72}|V_3_2\\V_3_2.vcxproj|solutionrelative:V_3_2\\V_3_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CB23EA-5951-4239-BCDE-A6AF3436B881}|V_3_1\\V_3_1.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\V_3_1\\V_3_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68CB23EA-5951-4239-BCDE-A6AF3436B881}|V_3_1\\V_3_1.vcxproj|solutionrelative:V_3_1\\V_3_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C4ED9E-58ED-4F02-845D-5DF7F53A9150}|ex_3\\ex_3.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\ex_3\\ex_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78C4ED9E-58ED-4F02-845D-5DF7F53A9150}|ex_3\\ex_3.vcxproj|solutionrelative:ex_3\\ex_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE912038-7FDB-428D-8602-F6286B4484B6}|ex_2\\ex_2.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\ex_2\\ex_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE912038-7FDB-428D-8602-F6286B4484B6}|ex_2\\ex_2.vcxproj|solutionrelative:ex_2\\ex_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF3B0B-D620-4739-8377-BDBE659BBACC}|ex_1and2\\ex_1and2.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\ex_1and2\\ex_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAEF3B0B-D620-4739-8377-BDBE659BBACC}|ex_1and2\\ex_1and2.vcxproj|solutionrelative:ex_1and2\\ex_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dop_1_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\Dop_1_1\\Dop_1_1.cpp",
+              "RelativeDocumentMoniker": "Dop_1_1\\Dop_1_1.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\Dop_1_1\\Dop_1_1.cpp",
+              "RelativeToolTip": "Dop_1_1\\Dop_1_1.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T23:43:16.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dop_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\Dop_2\\Dop_2.cpp",
+              "RelativeDocumentMoniker": "Dop_2\\Dop_2.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\Dop_2\\Dop_2.cpp",
+              "RelativeToolTip": "Dop_2\\Dop_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T23:57:56.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dop_3.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\dop_3\\dop_3.cpp",
+              "RelativeDocumentMoniker": "dop_3\\dop_3.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\dop_3\\dop_3.cpp",
+              "RelativeToolTip": "dop_3\\dop_3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-21T00:04:04.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "V_3_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\V_3_1\\V_3_1.cpp",
+              "RelativeDocumentMoniker": "V_3_1\\V_3_1.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\V_3_1\\V_3_1.cpp",
+              "RelativeToolTip": "V_3_1\\V_3_1.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T23:26:36.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ex_3.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\ex_3\\ex_3.cpp",
+              "RelativeDocumentMoniker": "ex_3\\ex_3.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\ex_3\\ex_3.cpp",
+              "RelativeToolTip": "ex_3\\ex_3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T23:23:21.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ex_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\ex_2\\ex_2.cpp",
+              "RelativeDocumentMoniker": "ex_2\\ex_2.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\ex_2\\ex_2.cpp",
+              "RelativeToolTip": "ex_2\\ex_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T23:20:32.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ex_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\ex_1and2\\ex_1.cpp",
+              "RelativeDocumentMoniker": "ex_1and2\\ex_1.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\ex_1and2\\ex_1.cpp",
+              "RelativeToolTip": "ex_1and2\\ex_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T23:09:13.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "V_3_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\V_3_2\\V_3_2.cpp",
+              "RelativeDocumentMoniker": "V_3_2\\V_3_2.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_14\\V_3_2\\V_3_2.cpp",
+              "RelativeToolTip": "V_3_2\\V_3_2.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T23:35:52.513Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

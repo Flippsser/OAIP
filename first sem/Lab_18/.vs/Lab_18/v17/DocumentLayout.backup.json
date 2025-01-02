@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{526B0965-B99A-4514-8D53-14C00EA7A68B}|V_16\\V_16.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\V_16\\V_16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{526B0965-B99A-4514-8D53-14C00EA7A68B}|V_16\\V_16.vcxproj|solutionrelative:V_16\\V_16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B959EA-FCA6-4529-84F7-7E5AC163CD71}|Ex_5_V7\\Ex_5_V7.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\Ex_5_V7\\Ex_5_V7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7B959EA-FCA6-4529-84F7-7E5AC163CD71}|Ex_5_V7\\Ex_5_V7.vcxproj|solutionrelative:Ex_5_V7\\Ex_5_V7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E856959-C706-40A8-88BB-98072822E225}|Ex_5\\Ex_5.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\Ex_5\\Ex_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E856959-C706-40A8-88BB-98072822E225}|Ex_5\\Ex_5.vcxproj|solutionrelative:Ex_5\\Ex_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05EAC64-3C52-4245-9480-723AC6443E5C}|ex_4_V3\\ex_4_V3.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\ex_4_V3\\ex_4_V3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F05EAC64-3C52-4245-9480-723AC6443E5C}|ex_4_V3\\ex_4_V3.vcxproj|solutionrelative:ex_4_V3\\ex_4_V3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4A73F5-C62B-4D26-BBC1-9DD2FBB3976F}|Pr_3\\Pr_3.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\Pr_3\\Pr_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA4A73F5-C62B-4D26-BBC1-9DD2FBB3976F}|Pr_3\\Pr_3.vcxproj|solutionrelative:Pr_3\\Pr_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86F0D7E-3147-467C-A6C8-4FB6D5925F9F}|pr_2\\pr_2.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\pr_2\\pr_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F86F0D7E-3147-467C-A6C8-4FB6D5925F9F}|pr_2\\pr_2.vcxproj|solutionrelative:pr_2\\pr_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B39196-3021-4470-B03C-7A9952550A31}|pr_1\\pr_1.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\pr_1\\pr_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8B39196-3021-4470-B03C-7A9952550A31}|pr_1\\pr_1.vcxproj|solutionrelative:pr_1\\pr_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "V_16.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\V_16\\V_16.cpp",
+              "RelativeDocumentMoniker": "V_16\\V_16.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\V_16\\V_16.cpp",
+              "RelativeToolTip": "V_16\\V_16.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T14:26:39.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ex_5_V7.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\Ex_5_V7\\Ex_5_V7.cpp",
+              "RelativeDocumentMoniker": "Ex_5_V7\\Ex_5_V7.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\Ex_5_V7\\Ex_5_V7.cpp",
+              "RelativeToolTip": "Ex_5_V7\\Ex_5_V7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T14:11:42.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ex_5.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\Ex_5\\Ex_5.cpp",
+              "RelativeDocumentMoniker": "Ex_5\\Ex_5.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\Ex_5\\Ex_5.cpp",
+              "RelativeToolTip": "Ex_5\\Ex_5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T13:41:19.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ex_4_V3.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\ex_4_V3\\ex_4_V3.cpp",
+              "RelativeDocumentMoniker": "ex_4_V3\\ex_4_V3.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\ex_4_V3\\ex_4_V3.cpp",
+              "RelativeToolTip": "ex_4_V3\\ex_4_V3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T13:36:21.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pr_3.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\Pr_3\\Pr_3.cpp",
+              "RelativeDocumentMoniker": "Pr_3\\Pr_3.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\Pr_3\\Pr_3.cpp",
+              "RelativeToolTip": "Pr_3\\Pr_3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T12:40:00.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pr_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\pr_2\\pr_2.cpp",
+              "RelativeDocumentMoniker": "pr_2\\pr_2.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\pr_2\\pr_2.cpp",
+              "RelativeToolTip": "pr_2\\pr_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T12:36:11.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pr_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\pr_1\\pr_1.cpp",
+              "RelativeDocumentMoniker": "pr_1\\pr_1.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\first sem\\Lab_18\\pr_1\\pr_1.cpp",
+              "RelativeToolTip": "pr_1\\pr_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T11:13:15.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
