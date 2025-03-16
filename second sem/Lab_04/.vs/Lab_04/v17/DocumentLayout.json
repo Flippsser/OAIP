@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\second sem\\Lab_04\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{868732F5-594D-47B2-9F20-8D46FB0F8B7C}|DOP_03\\DOP_03.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\second sem\\Lab_04\\DOP_03\\DOP_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{868732F5-594D-47B2-9F20-8D46FB0F8B7C}|DOP_03\\DOP_03.vcxproj|solutionrelative:DOP_03\\DOP_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DB3547-2AA3-4898-90DA-A2C88DC81E57}|DOP_02\\DOP_02.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\second sem\\Lab_04\\DOP_02\\DOP_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72DB3547-2AA3-4898-90DA-A2C88DC81E57}|DOP_02\\DOP_02.vcxproj|solutionrelative:DOP_02\\DOP_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1F83F1-470E-4F70-815A-341665B3DE04}|DOP_01\\DOP_01.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\second sem\\Lab_04\\DOP_01\\DOP_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A1F83F1-470E-4F70-815A-341665B3DE04}|DOP_01\\DOP_01.vcxproj|solutionrelative:DOP_01\\DOP_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0114AA9E-97CD-4145-B77F-7338ADC92B8D}|V_03\\V_03.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\second sem\\Lab_04\\V_03\\V_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0114AA9E-97CD-4145-B77F-7338ADC92B8D}|V_03\\V_03.vcxproj|solutionrelative:V_03\\V_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DOP_03.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\second sem\\Lab_04\\DOP_03\\DOP_03.cpp",
+              "RelativeDocumentMoniker": "DOP_03\\DOP_03.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\second sem\\Lab_04\\DOP_03\\DOP_03.cpp",
+              "RelativeToolTip": "DOP_03\\DOP_03.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T16:16:38.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DOP_02.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\second sem\\Lab_04\\DOP_02\\DOP_02.cpp",
+              "RelativeDocumentMoniker": "DOP_02\\DOP_02.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\second sem\\Lab_04\\DOP_02\\DOP_02.cpp",
+              "RelativeToolTip": "DOP_02\\DOP_02.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwCYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T15:57:01.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DOP_01.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\second sem\\Lab_04\\DOP_01\\DOP_01.cpp",
+              "RelativeDocumentMoniker": "DOP_01\\DOP_01.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\second sem\\Lab_04\\DOP_01\\DOP_01.cpp",
+              "RelativeToolTip": "DOP_01\\DOP_01.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T15:29:24.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "V_03.cpp",
               "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\second sem\\Lab_04\\V_03\\V_03.cpp",
               "RelativeDocumentMoniker": "V_03\\V_03.cpp",
               "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\OAIP\\labs\\second sem\\Lab_04\\V_03\\V_03.cpp",
               "RelativeToolTip": "V_03\\V_03.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAG4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-10T09:19:40.575Z",
               "EditorCaption": ""

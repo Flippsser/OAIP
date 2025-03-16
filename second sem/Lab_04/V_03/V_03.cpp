@@ -116,6 +116,7 @@ int main() {
     string filename = "clients.txt";
 
     while (true) {
+        cout << endl;
         displayMenu();
         cout << "Ваш выбор: ";
         cin >> choice;
