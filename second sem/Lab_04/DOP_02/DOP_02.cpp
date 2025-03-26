@@ -37,7 +37,7 @@ void displayTrainsAfterTime(const TRAIN trains[], int size, const string& time) 
 
 int main() {
     system("chcp 1251");
-    const int size = 8;
+    const int size = 3;
     TRAIN trains[size];
 
     cout << "Введите данные для 8 поездов (пункт назначения, номер поезда, время отправления):" << endl;
